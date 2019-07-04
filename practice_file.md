@@ -1,4 +1,4 @@
-#Practicing Markdown Format
+# Practicing Markdown Format
 
 There are several steps to practicing.
 1. Go through the files
@@ -18,3 +18,8 @@ Simple.  Just click [here](Https://www.purple.com) to check it out.
 If you **just quit your job** and want to go hang out instead of working.  That's ok.
 
 Techinically, you're on **vacation** anyways.
+
+## WAIT!
+
+What if you just tried it but the title wasn't big like it was *supposed* to be and you realized you just missed *one tiny space*?
+Just **add** one tiny space!
