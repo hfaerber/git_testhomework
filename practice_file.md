@@ -1,10 +1,10 @@
 # Practicing Markdown Format
 
 There are several steps to practicing.
-1. Go through the files
-1. Create a practice doc
-1. Use Markdown to update doc
-1. Try new markdown formatting
+- Go through the files
+- Create a practice doc
+- Use Markdown to update doc
+- Try new markdown formatting
 
 ### 1) What if you dont know how?
 Just google it.
